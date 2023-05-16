@@ -1,0 +1,31 @@
+.header-standard {
+    padding:1rem;
+    
+
+}
+.header-videopage {
+    padding:1rem;
+    text-align: left;
+
+}
+
+.image-box {
+    height:30px;
+    width: 20px;
+}
+
+.image-box img {
+    height: 100%;
+    width: auto;
+}
+
+.searchTool:hover{
+    cursor: pointer;
+}
+
+@media (max-width: 400px) {
+   
+    .upload-text{
+        display:none;
+    }
+}

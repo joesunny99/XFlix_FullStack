@@ -1,0 +1,45 @@
+.pill{
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 0px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /* margin: 4px 2px; */
+  cursor: pointer;
+  border-radius: 16px;
+  transform: translate(40%)
+}
+
+.pill select{
+  background-color: #ddd;
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  padding: 2px;
+  cursor: pointer;
+  border-radius: 16px;
+  appearance: none;
+}
+
+.sortPill{
+  transform: translate(40%)
+}
+
+
+.pill-selected{
+  background-color: black;
+  border: none;
+  color: #ddd;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}

@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_PKG_MANIFEST",
+    "err": {
+      "name": "pnpm",
+      "message": "No package.json found in /home/crio-user/workspace/joesunny99-ME_BUILDOUT_XFLIX_REACT",
+      "code": "ERR_PNPM_NO_PKG_MANIFEST",
+      "stack": "pnpm: No package.json found in /home/crio-user/workspace/joesunny99-ME_BUILDOUT_XFLIX_REACT\n    at handler (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.1.1/node_modules/pnpm/dist/pnpm.cjs:121482:17)\n    at async /usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.1.1/node_modules/pnpm/dist/pnpm.cjs:176453:21\n    at async run (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.1.1/node_modules/pnpm/dist/pnpm.cjs:176427:34)\n    at async runPnpm (/usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.1.1/node_modules/pnpm/dist/pnpm.cjs:176645:5)\n    at async /usr/pnpm-global/5/node_modules/.pnpm/pnpm@7.1.1/node_modules/pnpm/dist/pnpm.cjs:176637:7"
+    }
+  }
+}
